@@ -1,0 +1,7 @@
+D:\темп\UnboundHelper\bin\Debug\UnboundHelper.exe.config
+D:\темп\UnboundHelper\bin\Debug\UnboundHelper.exe
+D:\темп\UnboundHelper\bin\Debug\UnboundHelper.pdb
+D:\темп\UnboundHelper\obj\Debug\UnboundHelper.csproj.AssemblyReference.cache
+D:\темп\UnboundHelper\obj\Debug\UnboundHelper.csproj.CoreCompileInputs.cache
+D:\темп\UnboundHelper\obj\Debug\UnboundHelper.exe
+D:\темп\UnboundHelper\obj\Debug\UnboundHelper.pdb
